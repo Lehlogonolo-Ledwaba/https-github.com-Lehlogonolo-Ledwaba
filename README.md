@@ -62,3 +62,4 @@ IT-focused AI assistant designed to help with technical support queries and trou
 ## 📫 Contact
 - 💼 [LinkedIn](https://www.linkedin.com/in/lehlogonolo-ledwaba)
 - 🐙 [GitHub](https://github.com/Lehlogonolo-Ledwaba)
+- 💼 Lehlogonololedwaba04@gmail.com
