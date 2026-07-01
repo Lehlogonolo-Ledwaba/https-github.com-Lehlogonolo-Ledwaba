@@ -1,5 +1,5 @@
 # https-github.com-Lehlogonolo-Ledwaba
-# Hi, I'm Lehlogonolo Ledwaba 👋
+# I'm Lehlogonolo Ledwaba 👋
 
 I'm an Information Technology professional from Johannesburg, South Africa, with a Diploma in IT (Network Management) from IIE Rosebank College. I specialise in network infrastructure and AI-powered application development, and I'm currently completing the Stanford/DeepLearning.AI Machine Learning Specialisation on Coursera.
 
